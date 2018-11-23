@@ -1,0 +1,6 @@
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\BLL\bin\Debug\BLL.dll
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\BLL\bin\Debug\BLL.pdb
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\BLL\obj\Debug\BLL.dll
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\BLL\obj\Debug\BLL.pdb

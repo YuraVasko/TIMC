@@ -1,0 +1,16 @@
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\bin\Debug\TIMC.exe.config
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\bin\Debug\TIMC.exe
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\bin\Debug\TIMC.pdb
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.Form1.resources
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.Properties.Resources.resources
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.csproj.GenerateResource.cache
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.csproj.CoreCompileInputs.cache
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.exe
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.pdb
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.csprojAssemblyReference.cache
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\bin\Debug\BLL.dll
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\bin\Debug\BLL.pdb
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.csproj.CopyComplete
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.Form2.resources
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.Form3.resources
+C:\Users\yurav\OneDrive\Desktop\LNU\TIMC\TIMC\obj\Debug\TIMC.Form4.resources
